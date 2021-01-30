@@ -85,5 +85,6 @@ Run it in the following way :
 ```
 dotnet TVHeadEndM3USync.dll <tvh url> <path to m3u file> <network name> <username> <password>
 ```
+For easy build use docker :-)
 
 Have fun.
