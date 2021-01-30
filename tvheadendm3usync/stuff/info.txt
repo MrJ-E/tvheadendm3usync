@@ -1,0 +1,3 @@
+#This folder should contain:
+channels.m3u
+tv_grab_file.xmltv
