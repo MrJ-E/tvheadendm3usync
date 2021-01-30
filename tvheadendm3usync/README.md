@@ -48,6 +48,6 @@ Remember that if you modify gubbins.sh, image needs to be recreated to add the n
 #
 # m h  dom mon dow   command
 #6 4 * * * docker run --rm --name=tvsync tvheadendm3usync
-#1 */12 * * * wget -O /path/to/dir/tvheadend/data/tv_grab_file.xml --user-agent=Mozilla --content-disposition --keep-session-cookies --save-cookies cookies.txt "http://url.to.your.epg" ```
+#1 */12 * * * wget -O /path/to/dir/tvheadend/data/tv_grab_file.xml --user-agent=Mozilla --content-disposition --keep-session-cookies --save-cookies cookies.txt "http://url.to.your.epg"
 
 Good luck and dont forgett to have funz!
