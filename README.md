@@ -1,5 +1,14 @@
 # TVHeadEndM3USync
 
+Big thanks to https://github.com/hagaygo that is the original author. Goal of this fork is to run everything inside a docker. In my setup, I refresh channels/EPG twice a day, which is simply made by crond.
+
+------------
+
+
+
+
+
+------------
 This is a small utility (.Net core based) for keeping your M3U IPTV services up to date with your thheadend installation.
 
 Tvheadend has built in support for reading .m3u files and create muxes from them.
@@ -85,6 +94,5 @@ Run it in the following way :
 ```
 dotnet TVHeadEndM3USync.dll <tvh url> <path to m3u file> <network name> <username> <password>
 ```
-For easy build use docker :-)
 
 Have fun.
