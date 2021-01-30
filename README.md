@@ -4,9 +4,7 @@ Big thanks to https://github.com/hagaygo whom is the original author. Goal of th
 
 ------------
 
-
-
-
+For Dockerfile and info about this fork: https://github.com/MrJ-E/tvheadendm3usync/tree/master/tvheadendm3usync
 
 ------------
 This is a small utility (.Net core based) for keeping your M3U IPTV services up to date with your thheadend installation.
