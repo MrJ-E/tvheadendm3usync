@@ -1,6 +1,6 @@
 # TVHeadEndM3USync
 
-Big thanks to https://github.com/hagaygo that is the original author. Goal of this fork is to run everything inside a docker. In my setup, I refresh channels/EPG twice a day, which is simply made by crond.
+Big thanks to https://github.com/hagaygo whom is the original author. Goal of this fork is to run everything inside a docker. In my setup, I refresh channels/EPG twice a day, which is simply made by crond.
 
 ------------
 
