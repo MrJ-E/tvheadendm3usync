@@ -1,4 +1,4 @@
-This fork is only made to counter the tideous task of refreshing channels/EPG in Tvheadend. Thanks to https://github.com/hagaygo genious code, this was possible. Also big thanks to Roxedus over at https://www.linuxserver.io/ I had never tried docker before I entered their discord, mindblown! 
+This fork is only made to counter the tideous task of refreshing channels/EPG in Tvheadend. Thanks to https://github.com/hagaygo genious code, this was possible. Also big thanks to Tokugero over at https://www.linuxserver.io/ I had never tried docker before I entered their discord, mindblown! 
 
 Goal is to be able to run this on any machine, and not have to deal with library-issues and compability.
 This guide will not cover installing docker and get it up running.
